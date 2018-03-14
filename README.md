@@ -21,6 +21,7 @@ Lp | Temat | Termin Gr.1 |Termin Gr.2 | Prowadzący | Uwagi
 
 
 Tematy rezerwowe:
+- TDD Code Kata
 - Serverless & Ratpack
 - Współpraca z IDE
 - JVM tools
