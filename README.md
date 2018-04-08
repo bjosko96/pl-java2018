@@ -8,8 +8,8 @@ Lp | Temat | Termin Gr.1 |Termin Gr.2 | Prowadzący | Uwagi
 3 | JUnit 4/AssertJ | 12.03 | 15.03 | ZN | 
 4 | Mockito/Mutacje | 19.03 | 22.03 | MD |
 5 | Clean Code | 26.03 | 29.03 | ZN |
-6 | Docker | 28.05 | 5.04 | MD | Przerwa świąteczna 
-7 | Generics | 9.04 | 12.04 | . | 
+6 | Design Patterns | - | 5.04 | ZN | Przerwa świąteczna 
+7 | Generics | 9.04 | 12.04 | RC | 
 8 | Zaawansowane kolekcje | 16.04 | 19.04 | . | 
 9 | Sprawdzenie postępów w realizacji projektu końcowego | 23.04 | 26.04 | ZN+MD | 
 10| Java 8 | 7.05 | 10.05 | |  
