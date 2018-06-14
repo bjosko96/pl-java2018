@@ -13,10 +13,10 @@ Lp | Temat | Termin Gr.1 |Termin Gr.2 | Prowadzący | Uwagi
 8 | RxJava | 16.04 | 19.04 | MD | 
 9 | Java 8 | 23.04 | 26.04 | ZN | 
 10| Sprawdzenie postępów w realizacji projektu końcowego | 7.05 | 10.05 | ZN+MD |
-11| Spring/SpringBoot | 14.05| 17.05 | | 
-12| RESTful | 21.05 | 24.05 | | 
-13| Serverless/Ratpack~/Collections review | 4.06 | 7.06 | | 
-14| Microservices | 11.06 | 14.06 | | 
+11| Spring/SpringBoot | 14.05| 17.05 | ZN | 
+12| RESTful | 21.05 | 24.05 | MD | 
+13| Serverless/Ratpack~/Collections review | 4.06 | 7.06 | MD | 
+14| Microservices | 11.06 | 14.06 | ZN | 
 15| Sprawdzenie projektu końcowego | 18.06 | 21.06 | ZN+MD | 
 
 
